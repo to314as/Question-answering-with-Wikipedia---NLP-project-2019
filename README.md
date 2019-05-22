@@ -7,6 +7,6 @@ We propose and explore a QA system based on data form Wikipedia and the Stanford
 
 # 3)Further Research:
 
-_Do it yourself:
+_Do it yourself:_
 1) Setup:
 2) Execution:
